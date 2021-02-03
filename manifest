@@ -1,0 +1,6 @@
+# a wrong example
+    version: '2'
+    services:
+      my-service-name:
+        image: fhospina/rpi-node-armv7:v1.0.1
+        restart: always
